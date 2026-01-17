@@ -44,6 +44,8 @@ I'm Creeperkatze, a Unity game developer from Germany, with my current big proje
 
 > In developement
 <img align=top src="https://modrinth-readme-stats.creeperkatze.de/card/summary/creeperkatze" />
+<img align=top src="https://modrinth-readme-stats.creeperkatze.de/card/projects/jellysquid3" />
+
 
 
 
