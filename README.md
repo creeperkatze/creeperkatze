@@ -42,4 +42,4 @@ I'm Creeperkatze, a Unity game developer from Germany, with my current big proje
 
 #
 
-[![Creeperkatze](https://modrinth-embeds.creeperkatze.de/user/creeperkatze)](https://modrinth.com/user/creeperkatze)
+[![Creeperkatze](https://modfolio.creeperkatze.de/modrinth/user/creeperkatze)](https://modrinth.com/user/creeperkatze)
