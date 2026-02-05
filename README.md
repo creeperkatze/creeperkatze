@@ -1,4 +1,4 @@
-﻿<img src="assets/logo_512.png" width="120" height="120" align="left"> <h3>Hey, I'm Creeperkatze!</h3> <p>A developer from Germany with a background in game dev, currently building web and mobile applications.</p>
+﻿<img src="assets/logo_512.png" width="100" height="100" align="left"> <h3>Hey, I'm Creeperkatze!</h3> <p>A developer from Germany with a background in game dev, currently building web and mobile applications.</p>
 
 ## 🛠️ What I'm building
 
