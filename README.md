@@ -1,6 +1,4 @@
-﻿# Hey, I'm Creeperkatze!
-
-A developer from Germany with a background in game dev, currently building web and mobile applications.
+﻿<img src="assets/logo_512.png" width="120" height="120" align="left"> <h1>Hey, I'm Creeperkatze!</h1> <p>A developer from Germany with a background in game dev, currently building web and mobile applications.</p>
 
 ## 🛠️ What I'm building
 
