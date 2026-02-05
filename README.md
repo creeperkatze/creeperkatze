@@ -3,6 +3,7 @@
 ## 🛠️ What I'm building
 
 - [Modfolio](https://github.com/creeperkatze/modfolio), a fast, beautiful and consistent embed generator for all kinds of content on Minecraft modding platforms!
+- [Divebomb](https://creeperkatze.de/games/divebomb), an arcade racing game im working on. No release date yet.
 - [Superslide](https://supersli.de), a fast-paced casual game im working on. No release date yet.
 
 ## 🐱 Check out
