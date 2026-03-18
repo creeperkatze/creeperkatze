@@ -4,8 +4,8 @@
 
 ## 🛠️ What I'm building
 
-- [Modfolio](https://github.com/creeperkatze/modfolio), a fast, beautiful and consistent embed generator for all kinds of content on Minecraft modding platforms!
 - [Modrinth Extras](https://github.com/creeperkatze/modrinth-extras), a browser extension adding unofficial extra features to the Modrinth website.
+- [Modfolio](https://github.com/creeperkatze/modfolio), a fast, beautiful and consistent embed generator for all kinds of content on Minecraft modding platforms!
 - [Divebomb](https://link.creeperkatze.de/divebomb), an arcade racing game im working on. No release date yet.
 - [Superslide](https://link.creeperkatze.de/superslide), a fast-paced casual game im working on. No release date yet.
 
