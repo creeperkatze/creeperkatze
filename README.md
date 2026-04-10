@@ -2,6 +2,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,html,css,js,mongodb,python,nodejs,nuxt,vue,tailwind,express,linux,raspberrypi)](https://skillicons.dev)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F11WYJU3)
+
 ## 🛠️ What I'm building
 
 - [Modrinth Extras](https://github.com/creeperkatze/modrinth-extras), a browser extension that enhances Modrinth on the website and beyond.
