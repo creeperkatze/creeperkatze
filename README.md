@@ -6,6 +6,7 @@
 
 ## 🛠️ What I'm building
 
+- [Pi-hole In One](https://github.com/creeperkatze/pihole-in-one), a browser extension that to control your Pi-hole conveniently from within the browser.
 - [Modrinth Extras](https://github.com/creeperkatze/modrinth-extras), a browser extension that enhances Modrinth on the website and beyond.
 - [Modfolio](https://github.com/creeperkatze/modfolio), a fast, beautiful and consistent embed generator for all kinds of content on Minecraft modding platforms!
 - [Divebomb](https://link.creeperkatze.dev/divebomb), an arcade racing game im working on. No release date yet.
