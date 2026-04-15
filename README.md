@@ -2,8 +2,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,html,css,js,mongodb,python,nodejs,nuxt,vue,tailwind,express,linux,raspberrypi)](https://skillicons.dev)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F11WYJU3)
-
 ## 🛠️ What I'm building
 
 - [Pi-hole In One](https://github.com/creeperkatze/pihole-in-one), a browser extension to control your Pi-hole conveniently from within the browser.
