@@ -4,18 +4,21 @@
 
 ## 🛠️ What I'm building
 
-- **Browser Extensions**
+- **🧩 Browser Extensions**
     - [Pi-hole In One](https://github.com/creeperkatze/pihole-in-one), a browser extension to control your Pi-hole conveniently from within the browser.
     - [Modrinth Extras](https://github.com/creeperkatze/modrinth-extras), a browser extension that enhances Modrinth on the website and beyond.
 
-- **Websites**
+- **🌐 Web Apps**
     - [Modfolio](https://github.com/creeperkatze/modfolio), a fast, beautiful and consistent embed generator for all kinds of content on Minecraft modding platforms!
 
-- **Packages**
+- **📦 Packages**
     - [pihole-js](https://github.com/creeperkatze/pihole-js), a framework-agnostic JavaScript client for the Pi-hole v6 API.
     - [tankerkoenig-js](https://github.com/creeperkatze/tankerkoenig-js), a JavaScript API client for the Tankerkönig gas prices API.
 
-- **Games**
+- **🤖 Actions**
+    - [Extension Publish](https://github.com/creeperkatze/extension-publish), a GitHub Action to upload and publish browser extensions to the Chrome Web Store, Firefox Add-ons, and Edge Add-ons.
+
+- **🎮 Games**
     - [Divebomb](https://link.creeperkatze.dev/divebomb), an arcade racing game I'm working on. No release date yet.
     - [Superslide](https://link.creeperkatze.dev/superslide), a fast-paced casual game I'm working on. No release date yet.
 
