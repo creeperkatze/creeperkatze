@@ -21,7 +21,7 @@
 
 ## 🤝 Where I'm Contributing
 
-- [Modrinth](https://github.com/modrinth/code), mainly contributing to the website and app frontend.
+- [Modrinth](https://github.com/modrinth/code), mainly contributing to the website and app frontend, while also maintaining the German localization as a translator and proofreader.
 
 ## 🐱 Check out
 
