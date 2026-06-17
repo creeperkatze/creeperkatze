@@ -28,7 +28,7 @@
 
 ## 🐱 Check out
 
-- My [Website](https://link.creeperkatze.dev/website), where you can check what im working on, test yourself with fun quizzes or just generate cat photos!
+- My new website soon™.
 
 ## 💼 Services
 
