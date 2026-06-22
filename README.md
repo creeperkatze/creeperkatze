@@ -12,7 +12,8 @@
     - [Modfolio](https://github.com/creeperkatze/modfolio), a fast, beautiful and consistent embed generator for all kinds of content on Minecraft modding platforms!
 
 - **📦 Packages**
-    - [pihole-js](https://github.com/creeperkatze/pihole-js), a framework-agnostic JavaScript client for the Pi-hole v6 API.
+    - [pihole-js](https://github.com/creeperkatze/pihole-js), a framework-agnostic JavaScript client for the Pi-hole API.
+    - [hangar-js](https://github.com/creeperkatze/hangar-js), A framework-agnostic JavaScript client for the Hangar API by PaperMC.
     - [tankerkoenig-js](https://github.com/creeperkatze/tankerkoenig-js), a JavaScript API client for the Tankerkönig gas prices API.
 
 - **🤖 Actions**
