@@ -15,6 +15,7 @@
     - [pihole-js](https://github.com/creeperkatze/pihole-js), a framework-agnostic fully typed JavaScript client for the Pi-hole API.
     - [hangarmc-js](https://github.com/creeperkatze/hangarmc-js), a framework-agnostic fully typed JavaScript client for the Hangar API by PaperMC.
     - [curseforge-js](https://github.com/creeperkatze/curseforge-js), a framework-agnostic fully typed JavaScript client for the CurseForge API.
+    - [spiget-js](https://github.com/creeperkatze/spiget-js), a framework-agnostic fully typed JavaScript client for the Spiget API.
     - [tankerkoenig-js](https://github.com/creeperkatze/tankerkoenig-js), a JavaScript API client for the Tankerkönig gas prices API.
 
 - **🤖 Actions**
