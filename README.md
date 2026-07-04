@@ -11,6 +11,9 @@
 - **🌐 Web Apps**
     - [Modfolio](https://github.com/creeperkatze/modfolio), a fast, beautiful and consistent embed generator for all kinds of content on Minecraft modding platforms!
 
+- **💬 Discord Bots**
+    - [Modrinth Scout](https://github.com/creeperkatze/modrinth-scout), a Discord bot for discovering, exploring and tracking projects on Modrinth.
+
 - **📦 Packages**
     - [pihole-js](https://github.com/creeperkatze/pihole-js), a framework-agnostic fully typed JavaScript client for the Pi-hole API.
     - [hangarmc-js](https://github.com/creeperkatze/hangarmc-js), a framework-agnostic fully typed JavaScript client for the Hangar API by PaperMC.
