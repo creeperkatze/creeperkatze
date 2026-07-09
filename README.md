@@ -10,6 +10,7 @@
 
 - **🌐 Web Apps**
     - [Modfolio](https://github.com/creeperkatze/modfolio), a fast, beautiful and consistent embed generator for all kinds of content on Minecraft modding platforms!
+    - [Loctopus](https://github.com/creeperkatze/loctopus), a minimal backend counting lines of code for a public repo on GitHub, Codeberg, GitLab, or Bitbucket.
 
 - **💬 Discord Bots**
     - [Modrinth Scout](https://github.com/creeperkatze/modrinth-scout), a Discord bot for discovering, exploring and tracking projects on Modrinth.
