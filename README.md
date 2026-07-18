@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,rust,html,css,ts,js,nodejs,nuxt,vue,tailwind,express,tauri,linux,raspberrypi)](https://skillicons.dev)
 
-[![Discord](https://img.shields.io/discord/1525814737089331321?logo=discord&logoColor=white&label=Discord&color=5865F2)](https://discord.gg/Qds5QMrnDv)
+[![Discord](https://img.shields.io/discord/1525814737089331321?logo=discord&logoColor=white&label=Discord&color=5865F2)](https://link.creeperkatze.dev/discord)
 
 ## 🛠️ What I'm building
 
