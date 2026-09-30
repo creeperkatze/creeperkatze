@@ -25,6 +25,7 @@
     - [curseforge-js](https://github.com/creeperkatze/curseforge-js), a framework-agnostic fully typed JavaScript client for the CurseForge API.
     - [spiget-js](https://github.com/creeperkatze/spiget-js), a framework-agnostic fully typed JavaScript client for the Spiget API.
     - [voxelshop-js](https://github.com/creeperkatze/voxelshop-js), a framework-agnostic fully typed JavaScript client for the voxel.shop API.
+    - [moddex-js](https://github.com/creeperkatze/moddex-js), a framework-agnostic fully typed JavaScript client for the ModDex API.
     - [tankerkoenig-js](https://github.com/creeperkatze/tankerkoenig-js), a JavaScript API client for the Tankerkönig gas prices API.
 
 - **🤖 Actions**
