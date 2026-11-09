@@ -6,6 +6,9 @@
 
 ## 🛠️ What I'm building
 
+- **⛏️ Minecraft**
+    - [Minecraft Mods](https://github.com/creeperkatze/mc-mods), all my Minecraft mods in one place.
+
 - **🧩 Browser Extensions**
     - [Pi-hole In One](https://github.com/creeperkatze/pihole-in-one), a browser extension to control your Pi-hole conveniently from within the browser.
     - [Modrinth Extras](https://github.com/creeperkatze/modrinth-extras), a browser extension that enhances Modrinth on the website and beyond.
