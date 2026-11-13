@@ -1,4 +1,4 @@
-﻿<img src="assets/logo_512.png" width="100" height="100" align="left"> <h3>Hey, I'm Arthur!</h3> <p>A developer from Germany with a background in game development, currently building web apps, browser extensions, apps and mods. In my free time I like to contribute to open source stuff, like [Modrinth](https://github.com/modrinth/code) or [Stardew Valley Mods](https://github.com/Pathoschild/StardewMods).</p>
+﻿<img src="assets/logo_512.png" width="100" height="100" align="left"> <h3>Hey, I'm Arthur!</h3> <p>A developer from Germany with a background in game development, currently building web apps, browser extensions, apps and mods. In my free time I like to contribute to open source stuff, like [Modrinth](https://github.com/modrinth/code).</p>
 
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,rust,html,css,ts,js,nodejs,nuxt,vue,tailwind,express,tauri,linux,raspberrypi)](https://skillicons.dev)
 
